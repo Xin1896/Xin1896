@@ -25,10 +25,7 @@ Here's what I've built. Each one started as a tool I needed myself:
 | 📖 | 拼⁠音⁠小⁠绘⁠本 | A pinyin picture book: tap a character to hear it, read along with highlighting, answer quizzes by voice, or let AI write a new story.<br>给刚学拼音的孩子：点字听音、朗读时逐字高亮、用语音答题，也可以让 AI 按主题现编故事。 |
 | ⚡ | 电⁠之⁠密⁠室 | An escape-room game about electricity: pick the right conductors, fix the fuse box, and light up the room.<br>讲电路和导体的密室解谜：挑对导体，修好保险盒，把房间点亮。 |
 
-| |  | for writers |
-|---|---|---|
-| 🧰 | [Claude Code Skills](https://github.com/Xin1896/claude-code-skills) | The Claude Code skills I write and code with: Gladwell-style narrative, 和菜头-style essays, Paul Graham-style contrarian takes, Sapolsky-style layered causes, plus frontend and testing skills.<br>我写作和写代码用的 Claude Code 技能库：Gladwell 式叙事、和菜头式杂文、Paul Graham 式反共识、Sapolsky 式多层因果，还有前端与测试类技能。 |
-| ✍️ | 写⁠作⁠流⁠水⁠线 | Four skills behind my column 静观: a personal style guide, Economist-style structure, a seven-point article review, and WeChat formatting.<br>专栏「静观」背后的四个技能：个人风格指南、经济学人式结构、七维度文章评估、公众号排版。 |
+
 
 > Watch quietly, build steadily | 静观其变，动手造物
 
