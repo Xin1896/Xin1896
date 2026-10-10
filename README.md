@@ -13,7 +13,7 @@ Here's what I've built. Each one started as a tool I needed myself:
 | |  | for learners |
 |---|---|---|
 | 🪑 | [入⁠席](https://ruxi-theta.vercel.app) | Ask a question, such as what happiness is or how to face death, and see how 45 thinkers across 2,500 years answered it, laid out on a timeline.<br>输入一个问题，比如什么是幸福、怎样面对死亡，看 45 位东西方思想者在两千五百年里怎么回答，按时间线排开。 |
-| 🧠 | 模⁠型⁠思⁠维 | 102 mental models from 8 disciplines, ranked by how often you'll use them, each with a story. A problem workbench lets Claude coach your thinking.<br>8 个学科、102 个思维模型，按日常使用频率排序，每个配一个故事；「问题解剖台」让 Claude 当你的思考教练。 |
+| 🧠 | 模⁠型⁠思⁠维 | 102 mental models from 8 disciplines, ranked by how often you'll use them, each with a story and a real-life case.<br>8 个学科、102 个思维模型，按日常使用频率排序，每个配一个故事和真实案例。 |
 | 🏛️ | 思⁠想⁠演⁠变 | An interactive timeline from myth to the AI age: 9 eras and 14 thinkers on how people learned to think.<br>从神话到 AI 时代的可交互时间线：9 个时代、14 位思想家，讲人类怎样一步步学会思考。 |
 | 📚 | Buffett Wiki | 96 shareholder letters, 50 concepts and 61 companies linked into a 241-node knowledge graph you can ask questions.<br>96 封股东信、50 个概念、61 家公司，连成一张 241 个节点的知识图谱，可以直接向它提问。 |
 | 🗣️ | 出⁠声 SpeakUp | Turns English you can read into English you can say: 8 real-life scenes and 96 verb collocations, scored word by word right in the browser.<br>把「看得懂」练成「说得出」：8 个真实场景、96 组动词搭配，浏览器当场逐词打分。 |
